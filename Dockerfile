@@ -1,7 +1,7 @@
 FROM opspresso/builder
 
-LABEL "com.github.actions.name"="Kube Builder"
-LABEL "com.github.actions.description"="Kubernetes Builder for GitHub Action"
+LABEL "com.github.actions.name"="Kube Tools"
+LABEL "com.github.actions.description"="Kubernetes Tools for GitHub Action"
 LABEL "com.github.actions.icon"="box"
 LABEL "com.github.actions.color"="blue"
 
