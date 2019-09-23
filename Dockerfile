@@ -1,4 +1,4 @@
-FROM opspresso/builder
+FROM opspresso/deployer:v0.1.1
 
 LABEL "com.github.actions.name"="Kube Tools"
 LABEL "com.github.actions.description"="Kubernetes Tools for GitHub Action"
