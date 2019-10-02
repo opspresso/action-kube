@@ -1,0 +1,11 @@
+name: 'Kube Tools'
+description: 'Kubernetes Tools for GitHub Action'
+author: 'Jungyoul Yu <@nalbam>'
+
+branding:
+  icon: 'box'
+  color: 'blue'
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
