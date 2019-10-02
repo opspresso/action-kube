@@ -1,5 +1,8 @@
 # Kubernetes Builder
 
+[![GitHub Actions status](https://github.com/opspresso/action-kube/workflows/Build-Push/badge.svg)](https://github.com/opspresso/action-kube/actions)
+[![GitHub Releases](https://img.shields.io/github/release/opspresso/action-kube.svg)](https://github.com/opspresso/action-kube/releases)
+
 ## Usage
 
 ```yaml
